@@ -1,0 +1,29 @@
+{
+  "name": "circleai",
+  "version": "0.1.0",
+  "description": "AI for everyday task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BishalSaha/CircleAI.git"
+  },
+  "keywords": [
+    "AI",
+    "automation",
+    "task",
+    "ai",
+    "voice",
+    "enabled",
+    "voice",
+    "assist"
+  ],
+  "author": "BS, PKN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BishalSaha/CircleAI/issues"
+  },
+  "homepage": "https://github.com/BishalSaha/CircleAI#readme"
+}
